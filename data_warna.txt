@@ -1,0 +1,9 @@
+20,Putih
+30,Merah
+40,Orange
+50,Kuning
+60,Hijau
+70,Biru
+80,Nila
+90,Ungu
+100,Hitam
